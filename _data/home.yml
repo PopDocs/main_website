@@ -26,27 +26,27 @@ project_entries:
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: SMTP Penetration Testing
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: POP3 Penetration Testing
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
+  - title: Hack The Box
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: Cookie
+  - title: RastaLabs
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
+  - title: OffShore
+    url: https://github.com/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
@@ -55,13 +55,13 @@ old_project_entries:
 
 footer_entries:
   - title: abhinav's homepage
-    url: https://www.abhinav.co
+    url: https://#
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/
 
   - title: feed
     url: feed.xml
@@ -84,11 +84,10 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://github.com/
 
       - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
+        url: https://#
       - title: this list is scalable and can be nested
         url: false
         entries:
