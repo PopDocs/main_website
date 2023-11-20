@@ -10,6 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: SSH Penetration Testing
+    image: https://www.poplabsec.com/wp-content/uploads/2022/10/SSH-Penetration-Testing-Fundamentals-1-768x403.jpg
     url: hacking-ssh-port-22
     desc: This is an example project, configured in _data/home.yml
 
