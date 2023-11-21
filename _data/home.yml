@@ -42,8 +42,8 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Hack The Box
-    image: ./assets/images/htb/Dante.png
+  - title: Cybernetics
+    image: ./assets/images/htb/Cybernetics.png
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
@@ -111,3 +111,9 @@ misc_entries:
             url: false
 
 
+htb_entries:
+  - title: RFS Cybernetics
+    image: ./assets/images/htb/BS-Hailstorm.png
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
