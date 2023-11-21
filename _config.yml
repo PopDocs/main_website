@@ -38,6 +38,7 @@ theme_config:
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects
+    title_htb: Pro Labs
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
@@ -53,4 +54,3 @@ plugins:
 
 
 
-title_htb: Pro Labs
