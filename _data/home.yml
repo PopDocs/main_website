@@ -10,54 +10,58 @@ navbar_entries:
 
 project_entries:
   - title: SSH Penetration Testing
-    image: https://www.poplabsec.com/wp-content/uploads/2022/10/SSH-Penetration-Testing-Fundamentals-1-768x403.jpg
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: hacking-ssh-port-22
     desc: This is an example project, configured in _data/home.yml
 
   - title: FTP Penetration Testing
-    image: ./assets/images/Dante.png
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: overview-post
     desc: Projects are shown in card layout
 
   - title: SMB Penetration Testing
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: overview-post
     desc: You can control visibility from _config.yml file
 
   - title: SNMP Penetration Testing
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
   - title: SMTP Penetration Testing
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
   - title: POP3 Penetration Testing
+    image: ./assets/images/protocols/SSH_Penetration_Testing.jpg
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Hack The Box
-    image: ./assets/images/Dante.png
+    image: ./assets/images/htb/Dante.png
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: RastaLabs
-    image: ./assets/images/Dante.png
+    image: ./assets/images/htb/Dante.png
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
     highlight: PRO
 
   - title: Dante
-    image: ./assets/images/Dante.png
+    image: ./assets/images/htb/Dante.png
     url: https://github.com/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
     highlight: PRO
 
   - title: OffShore
-    image: ./assets/images/Offshore.png
+    image: ./assets/images/htb/Offshore.png
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
     highlight: PRO
