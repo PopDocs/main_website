@@ -50,12 +50,12 @@ old_project_entries:
     url: https://github.com/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
+  - title: TCM Security
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Homepage
     url: https://#
 
   - title: twitter
