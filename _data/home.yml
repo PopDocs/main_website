@@ -28,7 +28,7 @@ project_entries:
 
   - title: SNMP Penetration Testing
     image: ./assets/images/protocols/SNMP_Penetration_Testing.jpg
-    url: overview-post
+    url: https://snmp-penetration-testing.popdocs.net/
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
@@ -130,6 +130,24 @@ htb_entries:
     image: ./assets/images/htb/Dante.png
     url: https://github.com/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
+    highlight: PRO
+
+  - title: OffShore
+    image: ./assets/images/htb/Offshore.png
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+
+  - title: OffShore
+    image: ./assets/images/htb/Offshore.png
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+
+  - title: OffShore
+    image: ./assets/images/htb/Offshore.png
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
     highlight: PRO
 
   - title: OffShore
