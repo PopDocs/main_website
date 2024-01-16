@@ -46,31 +46,31 @@ project_entries:
 old_project_entries:
   - title: Cybernetics
     image: ./assets/images/htb/Cybernetics.png
-    url: https://www.soopr.co
+    url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: RastaLabs
     image: ./assets/images/htb/Dante.png
-    url: https://github.com/abhinavs/cookie
+    url: https://cli-ck.me/dante-prolabs
     desc: An open source landing website with supporting pages and integrated blog
     highlight: PRO
 
   - title: Dante
     image: ./assets/images/htb/Dante.png
-    url: https://github.com/
+    url: https://cli-ck.me/dante-prolabs
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
     highlight: PRO
 
   - title: OffShore
     image: ./assets/images/htb/Offshore.png
-    url: https://www.humangous.co
+    url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
 
 footer_entries:
   - title: Homepage
-    url: https://#
+    url: https://popdocs.net/
 
   - title: twitter
     url: https://twitter.com/
@@ -78,8 +78,8 @@ footer_entries:
   - title: github
     url: https://github.com/
 
-  - title: feed
-    url: feed.xml
+  - title: Privacy
+    url: https://popdocs.net/privacy
 
 misc_entries:
   - title: this is an example vertical list
@@ -116,42 +116,42 @@ misc_entries:
 htb_entries:
   - title: Cybernetics
     image: ./assets/images/htb/Cybernetics.png
-    url: https://www.soopr.co
+    url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: RastaLabs
     image: ./assets/images/htb/Dante.png
-    url: https://github.com/abhinavs/cookie
+    url: https://cli-ck.me/dante-prolabs
     desc: An open source landing website with supporting pages and integrated blog
     highlight: PRO
 
   - title: Dante
     image: ./assets/images/htb/Dante.png
-    url: https://github.com/
+    url: https://cli-ck.me/dante-prolabs
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
     highlight: PRO
 
   - title: OffShore
     image: ./assets/images/htb/Offshore.png
-    url: https://www.humangous.co
+    url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
 
   - title: OffShore
     image: ./assets/images/htb/Offshore.png
-    url: https://www.humangous.co
+    url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
 
   - title: OffShore
     image: ./assets/images/htb/Offshore.png
-    url: https://www.humangous.co
+    url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
 
   - title: OffShore
     image: ./assets/images/htb/Offshore.png
-    url: https://www.humangous.co
+    url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
