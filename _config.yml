@@ -34,6 +34,7 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Network Security Penetration Testing
+    title_description: Evaluates the security of network infrastructure, such as routers, switches, and firewalls, to identify vulnerabilities and potential entry points for attackers.
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Web Application Penetration Testing
