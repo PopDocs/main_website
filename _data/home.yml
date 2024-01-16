@@ -48,6 +48,7 @@ project_entries:
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    highlight: Port 22
 
   - title: FTP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/FTP_Penetration_Testing.jpg
