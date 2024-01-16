@@ -13,17 +13,17 @@ navbar_entries:
 project_entries:
   - title: SSH Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    url: hacking-ssh-port-22
+    url: https://ssh-penetration-testing.popdocs.net/
     desc: This is an example project, configured in _data/home.yml
 
   - title: FTP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/FTP_Penetration_Testing.jpg
-    url: overview-post
+    url: https://ftp-penetration-testing.popdocs.net/
     desc: Projects are shown in card layout
 
   - title: SMB Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SMB_Penetration_Testing.jpg
-    url: overview-post
+    url: https://smb-penetration-testing.popdocs.net/
     desc: You can control visibility from _config.yml file
 
   - title: SNMP Penetration Testing
@@ -34,13 +34,13 @@ project_entries:
 
   - title: SMTP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SMTP_Penetration_Testing.jpg
-    url: overview-post
+    url: https://smtp-penetration-testing.popdocs.net/
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
   - title: POP3 Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/POP3_Penetration_Testing.jpg
-    url: overview-post
+    url: https://pop3-penetration-testing.popdocs.net/
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
