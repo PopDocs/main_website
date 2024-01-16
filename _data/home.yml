@@ -10,6 +10,17 @@ navbar_entries:
   - title: Author
     url: https://www.linkedin.com/in/ruben-silva85/
 
+
+descriptions:
+  - title: Network Penetration Testing
+    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    desc: Evaluates the security of network infrastructure, such as routers, switches, and firewalls, to identify vulnerabilities and potential entry points for attackers.
+
+
+
+
+
+
 project_entries:
   - title: SSH Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
