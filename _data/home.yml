@@ -14,34 +14,34 @@ project_entries:
   - title: SSH Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: This is an example project, configured in _data/home.yml
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
 
   - title: FTP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/FTP_Penetration_Testing.jpg
     url: https://ftp-penetration-testing.popdocs.net/
-    desc: Projects are shown in card layout
+    desc: Explore our comprehensive article on FTP Penetration Testing, where we delve deep into strategies, tools, and prevention measures for a secure FTP environment.
 
   - title: SMB Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SMB_Penetration_Testing.jpg
     url: https://smb-penetration-testing.popdocs.net/
-    desc: You can control visibility from _config.yml file
+    desc: Discover the ins and outs of SMB Penetration Testing in our comprehensive article. Delve into strategies, best practices, and security measures of SMB Pentesting.
 
   - title: SNMP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SNMP_Penetration_Testing.jpg
     url: https://snmp-penetration-testing.popdocs.net/
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Explore the depths of SNMP Penetration Testing in our comprehensive article. Learn how this vital testing technique helps secure networks and ensures data integrity. Boost your cybersecurity knowledge today.
     highlight: WIP
 
   - title: SMTP Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SMTP_Penetration_Testing.jpg
     url: https://smtp-penetration-testing.popdocs.net/
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Explore the ins and outs of SMTP Penetration Testing in our comprehensive guide. Understand its significance in cybersecurity, techniques involved, and ways to strengthen email servers against threats.
     highlight: WIP
 
   - title: POP3 Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/POP3_Penetration_Testing.jpg
     url: https://pop3-penetration-testing.popdocs.net/
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Explore our detailed article on POP3 Penetration Testing for insights on security issues and how to test your system capabilities against potential threats. It's a valuable resource for anyone in cybersecurity.
 
 old_project_entries:
   - title: Cybernetics
