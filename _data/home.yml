@@ -9,6 +9,10 @@ navbar_entries:
     url: https://popdocs.net
   - title: Author
     url: https://www.linkedin.com/in/ruben-silva85/
+  - title: Merch
+    url: https://www.cybergeek.store/
+  - title: Patreon
+    url: https://www.patreon.com/rfs85
 
 
 projects:
@@ -120,31 +124,35 @@ websec:
 
 wifisec:
   - title: Wireless Penetration Testing
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/RF_Tech_Covers/Wireless_Penetration_Testing.jpg
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: Bluetooth Penetration Testing
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/RF_Tech_Covers/GSM_Penetration_Testing.jpg
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: ZigBee Penetration Testing
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/RF_Tech_Covers/ZigBee_Penetration_Testing.jpg
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: RFID / NFC Penetration Testing
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/RF_Tech_Covers/GSM_Penetration_Testing.jpg
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: SDR Penetration Testing
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/RF_Tech_Covers/GSM_Penetration_Testing.jpg
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
-
+  - title: GSM Penetration Testing
+    image: https://cdn.popdocs.net/RF_Tech_Covers/GSM_Penetration_Testing.jpg
+    url: https://cli-ck.me/dante-prolabs
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
 
 
 
@@ -201,7 +209,7 @@ htb_entries:
     highlight: PRO
 
   - title: OffShore
-    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/OffShore.png
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/Offshore.png
     url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
