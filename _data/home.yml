@@ -13,27 +13,27 @@ navbar_entries:
 
 projects:
   - title: PopLabSec
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/PopLabSec.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: Pentesting
   - title: Offensive Wireless
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/Offensive_Wireless.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: Radio
   - title: AD Attacks
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/Active_Directory_Attacks.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: AD Attacks
   - title: HTB Writeups
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: HTB Writeups
   - title: Certifications Study
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/CertsStudy.jpg
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: Exams
