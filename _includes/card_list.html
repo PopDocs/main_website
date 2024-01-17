@@ -4,6 +4,9 @@
     <li class="card">
       <a href="{{ item.url }}"> <img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}"></a>
       <a href="{{ item.url }}">
+
+
+        <hr />
         <span class="header">
           {{ item.title }}
           <br>
@@ -13,9 +16,6 @@
           {% endif %}
 
         </span>
-
-        <hr />
-
         {% if item.desc != false %}
         <p class="body">
           {{ item.desc }}
