@@ -2,10 +2,11 @@
   {% for item in include.collection %}
 
     <li class="card">
-      <img class="card-img-top" src="{{ item.image }}" alt="Card image cap">
+      <a href="{{ item.url }}"> <img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}"></a>
       <a href="{{ item.url }}">
         <span class="header">
           {{ item.title }}
+          <br>
 
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
@@ -19,6 +20,7 @@
         <p class="body">
           {{ item.desc }}
         </p>
+        <a href="{{ item.url }}" class="btn btn-success btn-lg active" role="button" id="read-article" aria-pressed="true">Read Article</a>
         {% endif %}
       </a>
     </li>

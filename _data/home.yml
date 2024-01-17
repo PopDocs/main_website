@@ -183,25 +183,50 @@ misc_entries:
 
 htb_entries:
   - title: Cybernetics
-    image: ./assets/images/htb/Cybernetics.png
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/Cybernetics.png
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: Zephyr
-    image: ./assets/images/htb/Zephyr.png
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/Zephyr.png
     url: https://cli-ck.me/dante-prolabs
     desc: An open source landing website with supporting pages and integrated blog
     highlight: PRO
 
   - title: Dante
-    image: ./assets/images/htb/Dante.png
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/Dante.png
     url: https://cli-ck.me/dante-prolabs
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
     highlight: PRO
 
   - title: OffShore
-    image: ./assets/images/htb/Offshore.png
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/OffShore.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+  - title: BS Hailstorm
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/BS-Hailstorm.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+  - title: ProLab Breakpoint
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/ProLab-Breakpoint.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+  - title: ProLab Genesis
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/ProLab-Genesis.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+  - title: BS Blizzard
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/BS-Blizzard.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: The better people know you, the better they collaborate
+    highlight: PRO
+  - title: BS Cyclone
+    image: https://cdn.popdocs.net/HTB_ProLabs_Logos/BS-Cyclone.png
     url: https://cli-ck.me/dante-prolabs
     desc: The better people know you, the better they collaborate
     highlight: PRO
@@ -214,7 +239,7 @@ certification:
     url: https://cli-ck.me/dante-prolabs
     desc: Delight your readers - add beautiful share and like buttons easily to your websites
     company: INE
-    highlight: NEW
+    highlight: Junior
 
 
 
