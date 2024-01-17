@@ -63,8 +63,8 @@ theme_config:
     title_wifisec: Radio Hacking
     desc_wifisec: Wireless Penetration Testing
     # Certifications
-    title_cert: Certifications
-    desc_cert: Cyber Security Exams notes
+    title_certs: Certifications
+    desc_certs: Cyber Security Exams notes
     #Tools
     title_tools: Pentesting Tools
     desc_tools: In Deep Tools Analysis

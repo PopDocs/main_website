@@ -242,9 +242,50 @@ certifications:
 tools:
   - title: CrackMapExec
     image: ./assets/images/htb/Cybernetics.png
-    url: https://cli-ck.me/dante-prolabs
+    url: https://crackmapexec.popdocs.net/
     desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: Free
+  - title: SQLMap
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Metasploit
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Impacket
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Nmap
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: THC-Hydra
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Certipy
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Mimikatz
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+  - title: Responder
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://crackmapexec.popdocs.net/
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
+
 
 ### FOOTER
 footer_entries:
