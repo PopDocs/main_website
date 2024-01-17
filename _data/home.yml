@@ -15,44 +15,50 @@ projects:
   - title: PopLabSec
     image: https://cdn.popdocs.net/ProjectsLogos/PopLabSec.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: Pentesting
   - title: Offensive Wireless
     image: https://cdn.popdocs.net/ProjectsLogos/Offensive_Wireless.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    desc: Explore our comprehensive article detailing SSH Penetration Testing.
     highlight: Radio
   - title: AD Attacks
     image: https://cdn.popdocs.net/ProjectsLogos/Active_Directory_Attacks.jpg
-    url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    url: https://www.ad-attacks.com/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: AD Attacks
   - title: HTB Writeups
     image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.jpg
-    url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    url: https://www.htb-writeups.com/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: HTB Writeups
   - title: Certifications Study
     image: https://cdn.popdocs.net/ProjectsLogos/CertsStudy.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: Exams
   - title: IoT Hacking 101
     image: https://cdn.popdocs.net/ProjectsLogos/IoTHacking101.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: IoT
   - title: TelcoSec
     image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.jpg
-    url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    url: https://www.telco-sec.com/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: IoT
+  - title: PopLabLinux
+    image: https://cdn.popdocs.net/ProjectsLogos/PopLabLinux.jpg
+    url: hhttps://www.poplablinux.com/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
+    highlight: IoT
+
 
 netsec:
   - title: SSH Penetration Testing
     image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
     url: https://ssh-penetration-testing.popdocs.net/
-    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: Port 22
 
   - title: FTP Penetration Testing
