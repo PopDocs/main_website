@@ -109,10 +109,17 @@ layout: default
 
 {% if site.theme_config.show_wifisec == true %}
   <h2>{{ site.theme_config.home.title_wifisec }}</h2>
-  <p>{{ site.theme_config.home.title_description }}</p>
+  <p>{{ site.theme_config.home.desc_wifisec }}</p>
   {% include card_list.html collection=site.data.home.wifisec %}
 {% endif %}
 
+
+
+{% if site.theme_config.show_tools == true %}
+  <h2>{{ site.theme_config.home.title_tools }}</h2>
+  <p>{{ site.theme_config.home.desc_tools }}</p>
+  {% include card_list.html collection=site.data.home.tools %}
+{% endif %}
 
 
 

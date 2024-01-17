@@ -239,7 +239,12 @@ certifications:
     company: INE
     highlight: Junior
 
-
+tools:
+  - title: CrackMapExec
+    image: ./assets/images/htb/Cybernetics.png
+    url: https://cli-ck.me/dante-prolabs
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: Free
 
 ### FOOTER
 footer_entries:
