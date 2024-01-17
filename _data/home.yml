@@ -287,6 +287,24 @@ tools:
     highlight: Free
 
 
+
+### Affiliates
+
+affiliates:
+  - title: HTB Pro Labs
+    url: https://popdocs.net/
+  - title: Digital Ocean
+    url: https://popdocs.net/
+  - title: NordVPN
+    url: https://popdocs.net/
+  - title: TCM Academy
+    url: https://popdocs.net/
+  - title: Homepage
+    url: https://popdocs.net/
+
+
+
+
 ### FOOTER
 footer_entries:
   - title: Homepage
