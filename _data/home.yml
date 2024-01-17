@@ -77,7 +77,7 @@ project_entries:
     url: https://pop3-penetration-testing.popdocs.net/
     desc: Explore our detailed article on POP3 Penetration Testing for insights on security issues and how to test your system capabilities against potential threats. It's a valuable resource for anyone in cybersecurity.
 
-old_project_entries:
+websec:
   - title: Cybernetics
     image: ./assets/images/htb/Cybernetics.png
     url: https://cli-ck.me/dante-prolabs
@@ -106,10 +106,10 @@ footer_entries:
   - title: Homepage
     url: https://popdocs.net/
 
-  - title: twitter
+  - title: Merch
     url: https://twitter.com/
 
-  - title: github
+  - title: Author
     url: https://github.com/
 
   - title: Privacy
