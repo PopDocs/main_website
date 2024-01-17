@@ -40,6 +40,7 @@ theme_config:
     title_blog: Blog
     title_old_projects: Web Application Penetration Testing
     title_htb: HTB Pro Labs
+    title_websec: Web Security
 
 soopr:
   publish_token: "pt_1ade0c2d0b04c7c1ed7479c4914491c7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
