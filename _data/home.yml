@@ -11,35 +11,6 @@ navbar_entries:
     url: https://www.linkedin.com/in/ruben-silva85/
 
 
-pentest_categories:
-  - title: Network Penetration Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Evaluates the security of network infrastructure, such as routers, switches, and firewalls, to identify vulnerabilities and potential entry points for attackers.
-
-  - title: Web Application Penetration Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Focuses on identifying vulnerabilities in web applications, including input validation, session management, and database security, to prevent unauthorized access and data breaches.
-
-  - title: Wireless Network Penetration Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Assesses the security of wireless networks, including Wi-Fi, to identify weaknesses in encryption, authentication, and overall network protection.
-
-  - title: Social Engineering Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Simulates real-world attacks involving manipulation of individuals to gain unauthorized access or sensitive information. It includes phishing, pretexting, and other social engineering techniques.
-
-  - title: Mobile Application Penetration Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Examines the security of mobile applications on various platforms, addressing issues such as insecure data storage, weak authentication, and inadequate encryption.
-
-  - title: Physical Security Testing
-    image: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
-    desc: Evaluates the physical security measures of an organization, including access controls, surveillance systems, and facility security, to identify vulnerabilities that could lead to unauthorized access.
-
-
-
-
-
 
 
 
@@ -76,6 +47,9 @@ netsec:
     image: https://cdn.popdocs.net/PopDocs.net_Covers/POP3_Penetration_Testing.jpg
     url: https://pop3-penetration-testing.popdocs.net/
     desc: Explore our detailed article on POP3 Penetration Testing for insights on security issues and how to test your system capabilities against potential threats. It's a valuable resource for anyone in cybersecurity.
+
+
+
 
 websec:
   - title: Cybernetics
