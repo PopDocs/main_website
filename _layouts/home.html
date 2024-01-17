@@ -47,6 +47,13 @@ layout: default
   {% include htb_list.html collection=site.data.home.htb_entries %}
 {% endif %}
 
+{% if site.theme_config.show_certifications == true %}
+  <h2>{{ site.theme_config.home.title_cert }}</h2>
+  <p>{{ site.theme_config.home.desc_htb }}</p>
+  {% include certs_list.html collection=site.data.home.certifications %}
+{% endif %}
+
+
 
 <!-- PopDocs_H -->
 <ins class="adsbygoogle"

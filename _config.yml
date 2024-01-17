@@ -37,6 +37,7 @@ theme_config:
   show_wifisec: true
   show_netsec: true
   show_projects: true
+  show_certifications: true
 
   # options for "home" page
   home:
@@ -60,6 +61,9 @@ theme_config:
     # Wifisec
     title_wifisec: Radio Hacking
     desc_wifisec: Wireless Penetration Testing
+    # Certifications
+    title_cert: Certifications
+    desc_cert: Cyber Security Exams notes
 
 soopr:
   publish_token: "pt_1ade0c2d0b04c7c1ed7479c4914491c7"
