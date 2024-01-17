@@ -13,42 +13,42 @@ navbar_entries:
 
 projects:
   - title: PopLabSec
-    image: https://cdn.popdocs.net/ProjectsLogos/PopLabSec.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/PopLabSec.png
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: Pentesting
   - title: Offensive Wireless
-    image: https://cdn.popdocs.net/ProjectsLogos/Offensive_Wireless.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/Offensive_Wireless.png
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing.
     highlight: Radio
   - title: AD Attacks
-    image: https://cdn.popdocs.net/ProjectsLogos/Active_Directory_Attacks.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/Active_Directory_Attacks.png
     url: https://www.ad-attacks.com/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: AD Attacks
   - title: HTB Writeups
-    image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.png
     url: https://www.htb-writeups.com/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: HTB Writeups
   - title: Certifications Study
-    image: https://cdn.popdocs.net/ProjectsLogos/CertsStudy.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/CertsStudy.png
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: Exams
   - title: IoT Hacking 101
-    image: https://cdn.popdocs.net/ProjectsLogos/IoTHacking101.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/IoTHacking101.png
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: IoT
   - title: TelcoSec
-    image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/TelcoSec.png
     url: https://www.telco-sec.com/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: IoT
   - title: PopLabLinux
-    image: https://cdn.popdocs.net/ProjectsLogos/PopLabLinux.jpg
+    image: https://cdn.popdocs.net/ProjectsLogos/PopLabLinux.png
     url: hhttps://www.poplablinux.com/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. 
     highlight: IoT
