@@ -51,6 +51,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+  - "jekyll-github-metadata"
 
 
 
