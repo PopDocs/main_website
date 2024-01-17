@@ -41,7 +41,7 @@ theme_config:
     title_htb: HTB Pro Labs
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_1ade0c2d0b04c7c1ed7479c4914491c7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
