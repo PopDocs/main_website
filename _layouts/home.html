@@ -41,11 +41,14 @@ layout: default
 
 {% if site.theme_config.show_old_projects == true %}
   <h2>{{ site.theme_config.home.title_old_projects }}</h2>
-  {% include card_list.html collection=site.data.home.websec %}
+  {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
 
-
+{% if site.theme_config.show_websec == true %}
+  <h2>{{ site.theme_config.home.title_websec }}</h2>
+  {% include card_list.html collection=site.data.home.old_project_entries %}
+{% endif %}
 
 
 
