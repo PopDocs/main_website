@@ -175,8 +175,8 @@ htb_entries:
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: RastaLabs
-    image: ./assets/images/htb/Dante.png
+  - title: Zephyr
+    image: ./assets/images/htb/Zephyr.png
     url: https://cli-ck.me/dante-prolabs
     desc: An open source landing website with supporting pages and integrated blog
     highlight: PRO
@@ -193,26 +193,7 @@ htb_entries:
     desc: The better people know you, the better they collaborate
     highlight: PRO
 
-  - title: OffShore
-    image: ./assets/images/htb/Offshore.png
-    url: https://cli-ck.me/dante-prolabs
-    desc: The better people know you, the better they collaborate
-    highlight: PRO
-
-  - title: OffShore
-    image: ./assets/images/htb/Offshore.png
-    url: https://cli-ck.me/dante-prolabs
-    desc: The better people know you, the better they collaborate
-    highlight: PRO
-
-  - title: OffShore
-    image: ./assets/images/htb/Offshore.png
-    url: https://cli-ck.me/dante-prolabs
-    desc: The better people know you, the better they collaborate
-    highlight: PRO
-
-
-
+ 
 
 ### FOOTER
 footer_entries:
