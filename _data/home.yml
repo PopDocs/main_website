@@ -17,6 +17,28 @@ projects:
     url: https://ssh-penetration-testing.popdocs.net/
     desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
     highlight: Pentesting
+  - title: Offensive Wireless
+    logo: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    url: https://ssh-penetration-testing.popdocs.net/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    highlight: Radio
+  - title: AD Attacks
+    logo: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    url: https://ssh-penetration-testing.popdocs.net/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    highlight: AD Attacks
+  - title: HTB Writeups
+    logo: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    url: https://ssh-penetration-testing.popdocs.net/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    highlight: HTB Writeups
+  - title: Certifications Study
+    logo: https://cdn.popdocs.net/PopDocs.net_Covers/SSH_Penetration_Testing.jpg
+    url: https://ssh-penetration-testing.popdocs.net/
+    desc: Explore our comprehensive article detailing SSH Penetration Testing. Gain insights into tactics, protective measures, and advanced testing techniques for optimal system security.
+    highlight: Exams
+
+
 
 
 netsec:
