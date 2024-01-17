@@ -26,27 +26,32 @@ layout: default
 
 {% if site.theme_config.show_htb == true %}
   <h2>{{ site.theme_config.home.title_htb }}</h2>
+  <p>{{ site.theme_config.home.title_description }}</p>
   {% include htb_list.html collection=site.data.home.htb_entries %}
 {% endif %}
 
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
+  <p>{{ site.theme_config.home.title_description }}</p>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
 {% endif %}
 
 {% if site.theme_config.show_blog == true %}
   <h2>{{ site.theme_config.home.title_blog }}</h2>
+  <p>{{ site.theme_config.home.title_description }}</p>
   {% include post_list.html %}
 {% endif %}
 
 {% if site.theme_config.show_old_projects == true %}
   <h2>{{ site.theme_config.home.title_old_projects }}</h2>
+  <p>{{ site.theme_config.home.title_description }}</p>
   {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
 
 {% if site.theme_config.show_websec == true %}
   <h2>{{ site.theme_config.home.title_websec }}</h2>
+  <p>{{ site.theme_config.home.websec.desc }}</p>
   {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
@@ -54,6 +59,7 @@ layout: default
 
 {% if site.theme_config.show_wifisec == true %}
   <h2>{{ site.theme_config.home.title_wifisec }}</h2>
+  <p>{{ site.theme_config.home.title_description }}</p>
   {% include card_list.html collection=site.data.home.wifisec %}
 {% endif %}
 
