@@ -1,11 +1,11 @@
 navbar_entries:
   - title: about
     url: about
-
   - title: blog
     url: blog
-
   - title: website
+    url: https://popdocs.net
+  - title: Discord
     url: https://popdocs.net
   - title: Author
     url: https://www.linkedin.com/in/ruben-silva85/
@@ -125,12 +125,12 @@ websec:
 wifisec:
   - title: Wireless Penetration Testing
     image: https://cdn.popdocs.net/RF_Tech_Covers/Wireless_Penetration_Testing.jpg
-    url: https://cli-ck.me/dante-prolabs
+    url: https://wireless-penetration-testing.popdocs.net/
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: Bluetooth Penetration Testing
     image: https://cdn.popdocs.net/RF_Tech_Covers/Bluetooth-Penetration-Testing.webp
-    url: https://cli-ck.me/dante-prolabs
+    url: https://bluetooth-penetration-testing.popdocs.net/
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
   - title: ZigBee Penetration Testing
