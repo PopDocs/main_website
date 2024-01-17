@@ -89,10 +89,13 @@ layout: default
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-{% if site.theme_config.show_blog == true %}
-  <h2>{{ site.theme_config.home.title_blog }}</h2>
-  <p>{{ site.theme_config.home.title_description }}</p>
-  {% include post_list.html %}
+
+
+
+{% if site.theme_config.show_wifisec == true %}
+  <h2>{{ site.theme_config.home.title_wifisec }}</h2>
+  <p>{{ site.theme_config.home.desc_wifisec }}</p>
+  {% include card_list.html collection=site.data.home.wifisec %}
 {% endif %}
 
 <!-- PopDocs_H -->
@@ -105,15 +108,6 @@ layout: default
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
-{% if site.theme_config.show_wifisec == true %}
-  <h2>{{ site.theme_config.home.title_wifisec }}</h2>
-  <p>{{ site.theme_config.home.desc_wifisec }}</p>
-  {% include card_list.html collection=site.data.home.wifisec %}
-{% endif %}
-
-
 
 {% if site.theme_config.show_tools == true %}
   <h2>{{ site.theme_config.home.title_tools }}</h2>

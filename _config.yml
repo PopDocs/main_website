@@ -5,7 +5,7 @@ description: Explore PopDocs - your ultimate cybersecurity resource. Discover ti
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./RFS.png" # relative path to site's favicon
 
 twitter:
     username: poplabsec # update or delete this
