@@ -52,6 +52,11 @@ layout: default
 
 
 
+{% if site.theme_config.show_wifisec == true %}
+  <h2>{{ site.theme_config.home.title_wifisec }}</h2>
+  {% include card_list.html collection=site.data.home.wifisec %}
+{% endif %}
+
 
 
 
