@@ -2,7 +2,7 @@
   {% for item in include.collection %}
 
     <li class="card">
-      <img class="card-img-top" src="{{ item.image }}" alt="Card image cap">
+      <img class="card-img-top" src="{{ item.image }}" alt="{{ item.title }}">
       <a href="{{ item.url }}">
         <span class="header">
           {{ item.title }}
